@@ -1,0 +1,14 @@
+com/tarea1/MainApplication.java
+ com.tarea1.MainApplication
+ com.tarea1.MainApplication$1
+com/tarea1/ReactNativeFlipper.java
+ com.tarea1.ReactNativeFlipper
+ com.tarea1.ReactNativeFlipper$1
+ com.tarea1.ReactNativeFlipper$2
+ com.tarea1.ReactNativeFlipper$2$1
+com/tarea1/BuildConfig.java
+ com.tarea1.BuildConfig
+com/tarea1/MainActivity.java
+ com.tarea1.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
